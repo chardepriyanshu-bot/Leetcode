@@ -18,5 +18,4 @@ public class RotateArrayByTwo {
 		}
 		System.out.println(Arrays.toString(arr));
 	}
-
 }
